@@ -1,0 +1,7 @@
+# Streamlit configuration
+[server]
+# Max browser-upload size in MB (default is 200). Raised for large ASL reports.
+maxUploadSize = 2048
+
+[browser]
+gatherUsageStats = false
